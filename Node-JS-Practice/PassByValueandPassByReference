@@ -1,0 +1,13 @@
+
+let a=10;
+let b=a;
+
+console.log("Before modifying value of b")
+console.log(a);
+console.log(b);
+
+b=15;
+
+console.log("After modifying value of b")
+console.log(a);
+console.log(b);
