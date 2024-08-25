@@ -6,7 +6,9 @@ function display(prt){
 
 function greet(){
 
-    console.log("Hello");
+    console.log("Hiii");//
+
+
 }
 
 
